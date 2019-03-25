@@ -26,3 +26,6 @@ def using_concat(x,y)
   return x.concat(y)
 end
 
+def using_insert(array,element)
+  return array.insert(element,4)
+end
